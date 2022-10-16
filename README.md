@@ -18,4 +18,6 @@ O site contém informações sobre a nave da franquia de filmes Star Wars “Mil
   João Pedro Segatto <br>
 </p>
 
-
+<h4 align="center"> 
+	 ✅ Projeto finalizado
+</h4>
