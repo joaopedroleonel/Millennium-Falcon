@@ -1,14 +1,19 @@
 # Millennium-Falcon
 
 ## Site criado com o intuito de testar conhecimento de HTML, CSS e Javascript.
-## O site contém informações sobre a nave da franquia de filmes Star Wars “Millennium Falcon”, contando como ocorreram suas alterações de design com o passar do tempo.
+O site contém informações sobre a nave da franquia de filmes Star Wars “Millennium Falcon”, contando como ocorreram suas alterações de design com o passar do tempo.
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> Passar informações sobre as mudanças de design da Millennium Falcon
- <a href="#roadmap">Como usar</a> Por ser um site curto, você pode se mover nele somente usando o scroll, mas em sua versão de computador e tablet está disponível um menu de navegação pelas imagens do site.
- <a href="#tecnologias">Tecnologias</a> HTML, CSS e Javascript 
- <a href="#licenc-a">Licença</a> Mit
- <a href="#autor">Autor</a> João Pedro Segatto
+ <h1 href="#objetivo">Objetivo</h1> 
+  Passar informações sobre as mudanças de design da Millennium Falcon <br>
+ <h1 href="#roadmap">Como usar</h1> 
+  Por ser um site curto, você pode se mover nele somente usando o scroll, mas em sua versão de computador e tablet está disponível um menu de navegação pelas imagens do site. <br>
+ <h1 href="#tecnologias">Tecnologias</h1> 
+  HTML, CSS e Javascript <br>
+ <h1 href="#licenc-a">Licença</h1> 
+  Mit <br>
+ <h1 href="#autor">Autor</h1> 
+  João Pedro Segatto <br>
 </p>
 
 
